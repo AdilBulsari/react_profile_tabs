@@ -1,3 +1,1 @@
-#### IN ACTION
-
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Simple Tabs apps where a user can view all Jobs related data 
